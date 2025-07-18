@@ -112,7 +112,7 @@ Sure! Here's a cleaner and more structured rewrite of your project overview that
 
 ```
 Insurance_AI_Project
-├── 📂 data            # Raw & processed datasets
+├── 📂 dataset           # Raw & processed datasets
 ├── 📂 notebooks       # EDA, ML, NLP experiments
 ├── 📂 models          # Saved models (Pickle, ONNX, TensorFlow, PyTorch)
 ├── 📂 scripts         # Data preprocessing & model training
